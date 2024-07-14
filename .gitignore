@@ -1,0 +1,172 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.nfs*
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Protractor
+screenshots/
+
+# Puppeteer
+/puppeteer/
+
+# Cypress
+/cypress/screenshots/
+/cypress/videos/
+/cypress/fixtures/example.json
+
+# FuseBox
+.fusebox/
+
+# Docker
+*.db
+*.sql
+*.tar
+*.sock
+.Dockerfile
+docker-compose.yml
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/cspell.json
+.vscode/jsconfig.json
+.vscode/tags
+.vscode/vim_settings.json
+.vscode/workspaceStorage/
+
+# Intellij
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/description.xml
+.idea/dictionaries
+.idea/codeStyles
+.idea/jsLibraryMappings.xml
+
+# IntelliJ
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Figma
+*.fig
+
+# GIMP
+*.xcf
+
+# VS Code
+.history/
+**/.history/
+
+# Nuxt.js
+.nuxt/
+
+# Gridsome
+.cache/
+assets/
+
+# Sapper
+__sapper__/
+__sapper__/export/
+.clevercloud/
+.vercel/
+.netlify/
+
+# Project local environment
+.env.local
+.env.*.local
+.env
+
+# misc
+*.log
+*.bak
+*.swp
+*~
+
+# npm package
+*.tgz
+
+# Jekyll
+.jekyll-cache/
